@@ -1,7 +1,7 @@
 
 
-function PlayerGame() {
+function PlayerScore() {
 
 }
 
-export default PlayerGame;
+export default PlayerScore;

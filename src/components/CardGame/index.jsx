@@ -2,7 +2,7 @@ import './styles.css';
 
 
 function CardGame() {
-    return `
+    return /*html*/ `
     <article class="card-game">
         <img src="../../../src/images/alurapixel.png" alt="Logo da Alura">
     </article>
